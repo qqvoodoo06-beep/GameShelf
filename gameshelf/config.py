@@ -7,7 +7,7 @@ from pathlib import Path
 from PySide6.QtCore import QStandardPaths
 
 APP_NAME = "GameShelf"
-APP_VERSION = "0.3.0"
+APP_VERSION = "0.3.1"
 
 
 def data_dir() -> Path:
